@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(12, 12, 12);
+    color: white;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    color: white;
+}
+
+.fotos {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    border-radius: 25%;
+    border-color: white;
+    border-collapse: collapse;
+    padding: 15%;
+    background-color: white;
+}
+
+
+figure {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace ;
+    
+}
+
+
+.fignegao {
+    position: relative;
+    left: 151px;
+
+}
+
+.figcaralho {
+    position: relative;
+    bottom: 250px;
+    right: 150px;
+}
+
+.figtartaruga {
+    position: relative;
+    right: 150px;
+    bottom: 240px;
+}
+
+.figpiroca {
+    position: relative;
+    left: 152px;
+    bottom: 490px;
+}
+
+.paragrafo {
+    text-align: center;
+}
+
+.tamanho-video {
+    width: 900px;
+    height: 500px;
+}
